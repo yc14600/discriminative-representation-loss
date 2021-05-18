@@ -1,0 +1,4 @@
+tensorflow_gpu==1.15
+scipy
+pandas
+sklearn
